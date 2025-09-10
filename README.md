@@ -5,7 +5,7 @@ Sample Datasheet: https://drive.google.com/file/d/1TLiALFsuVYNleVqKxZmw_Z7jJr5Sv
 
 Live-Demo Link : https://replit.com/@nilay1516412824/Personal-Fitness-Data-Analyzer
 
-Demo Video : 
+Demo Video : https://go.screenpal.com/watch/cTQ62Nnoydi
 
 
 
