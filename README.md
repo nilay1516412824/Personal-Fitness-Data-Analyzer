@@ -3,6 +3,10 @@ Analyze your daily steps, sleep, or workout data to find patterns!
 
 Sample Datasheet: https://drive.google.com/file/d/1TLiALFsuVYNleVqKxZmw_Z7jJr5SvjHR/view?pli=1
 
+Live-Demo Link : https://replit.com/@nilay1516412824/Personal-Fitness-Data-Analyzer
+
+Demo Video : 
+
 
 
 **Setup Guide**
